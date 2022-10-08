@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 // import Header from "../components/ManualHeader";
 import Header from "../components/AutoHeader";
 import styles from "../styles/Home.module.css";
